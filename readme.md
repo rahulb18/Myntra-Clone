@@ -1,5 +1,9 @@
 ## MYNTRA ##
 
+![Logo](https://images2.imgbox.com/c0/b8/9A3OPB3n_o.jpg)
+![Logo](https://images2.imgbox.com/b1/79/Ajcc0vIR_o.jpg)
+![Logo](https://images2.imgbox.com/5c/84/veOWEFoY_o.jpg)
+
 Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, Karnataka, India. The company was founded in 2007 to sell personalized gift items.
 
 In Myntra history, it had started selling products for fashion and lifestyle and gradually moved away from personalized products. And by 2012, the story of Myntra took a turn as it began offering products from 350 Indian and International brands.
@@ -54,3 +58,6 @@ Here is the students name & there assign task:-
                                         14th june : Complete the other part of address information.
                                         15th, 16th june : Complete the half part of payment.
                                         17th, 18th june : Complete the entire part of payment & paymennt successfull page.
+                                        
+                                        
+                                        
